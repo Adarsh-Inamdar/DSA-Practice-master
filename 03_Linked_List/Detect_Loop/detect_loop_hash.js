@@ -1,0 +1,1 @@
+// Detect loop using hash 
