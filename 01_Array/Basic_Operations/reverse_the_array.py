@@ -1,5 +1,4 @@
-/*
-✅ Problem: Reverse the elements of the array.
+'''✅ Problem: Reverse the elements of the array.
 
 ⚙️ Expected Functionality:
 - Input: [1, 2, 3, 4, 5]
@@ -15,4 +14,5 @@
 - Swap elements at start and end until they meet in the middle.
 
 🧠 Write your implementation below this comment:
-*/
+'''
+
