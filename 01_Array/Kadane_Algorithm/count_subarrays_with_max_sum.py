@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Count the number of subarrays that achieve the maximum subarray sum.
 
 ⚙️ Expected Functionality:
@@ -15,4 +15,5 @@
 - Then iterate again to count subarrays matching that sum.
 
 🧠 Write your implementation below this comment:
-*/
+"""
+
