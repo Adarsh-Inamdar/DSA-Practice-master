@@ -15,4 +15,20 @@
 
 🧠 Write your implementation below this comment:
 '''
+def arrayrev():
+    rev = []
+    arr = []
+    n = int(input("Enter the total elements:"))
+    print("Enter The list Elements:")
+    for i in range(n):
+        arr.append(int(input()))
+    for j in range(n-1,-1,-1):
+        rev.append(arr[j])
+    return rev
 
+
+
+
+rev = arrayrev()
+
+print(rev)
