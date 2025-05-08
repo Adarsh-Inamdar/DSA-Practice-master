@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Search for a target element in a sorted array using Binary Search.
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,5 @@
 - Repeat while low <= high: find mid, compare with target, move left/right
 
 🧠 Write your implementation below this comment:
-*/
+"""
+

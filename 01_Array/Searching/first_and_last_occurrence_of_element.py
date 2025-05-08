@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Find the first and last occurrence of an element in a sorted array.
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,4 @@
 - Second binary search for last occurrence.
 
 🧠 Write your implementation below this comment:
-*/
+"""

@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Answer multiple queries asking the sum of elements from index L to R.
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,4 @@
 - For each query, return prefix[r] - prefix[l-1] (handle l = 0 separately)
 
 🧠 Write your implementation below this comment:
-*/
+"""

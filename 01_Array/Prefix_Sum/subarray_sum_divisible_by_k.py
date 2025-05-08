@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Count the number of subarrays whose sum is divisible by K.
 
 ⚙️ Expected Functionality:
@@ -15,4 +15,5 @@
 - Handle negative mods by converting them to positive (i.e., ((sum % K) + K) % K)
 
 🧠 Write your implementation below this comment:
-*/
+"""
+

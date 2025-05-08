@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Search for an element in a sorted array that has been rotated.
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,4 @@
 - Narrow search space based on where target lies.
 
 🧠 Write your implementation below this comment:
-*/
+"""

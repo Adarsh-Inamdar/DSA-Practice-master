@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Find the length of the longest subarray with sum equal to `K`.
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,5 @@
 - Track current prefix sum and check if (prefixSum - K) exists.
 
 🧠 Write your implementation below this comment:
-*/
+"""
+

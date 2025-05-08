@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Check if there exists a subarray whose sum is 0.
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,5 @@
 - If prefix sum is 0 or has occurred before → subarray with 0 sum exists.
 
 🧠 Write your implementation below this comment:
-*/
+"""
+

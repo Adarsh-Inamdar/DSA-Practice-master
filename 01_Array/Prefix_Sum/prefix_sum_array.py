@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Construct the prefix sum array for the given array.
 
 ⚙️ Expected Functionality:
@@ -13,4 +13,5 @@
 - Iterate from index 1 to N-1, and do arr[i] += arr[i-1]
 
 🧠 Write your implementation below this comment:
-*/
+"""
+

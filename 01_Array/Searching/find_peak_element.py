@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Find a peak element in the array (greater than its neighbors).
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,4 @@
 - If mid is peak, return it. Else, move to side where a bigger element exists.
 
 🧠 Write your implementation below this comment:
-*/
+"""

@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Search for an element in an array using Linear Search.
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,4 @@
 - If element matches target, return the index.
 
 🧠 Write your implementation below this comment:
-*/
+"""

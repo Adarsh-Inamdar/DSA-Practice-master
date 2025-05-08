@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Find the floor value of the square root of a number using binary search.
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,5 @@
 - Use binary search to find the largest mid such that mid*mid <= num
 
 🧠 Write your implementation below this comment:
-*/
+"""
+

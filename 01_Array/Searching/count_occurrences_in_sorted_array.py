@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Count how many times a given element appears in a sorted array.
 
 ⚙️ Expected Functionality:
@@ -16,4 +16,4 @@
 - Count = (last - first + 1)
 
 🧠 Write your implementation below this comment:
-*/
+"""
