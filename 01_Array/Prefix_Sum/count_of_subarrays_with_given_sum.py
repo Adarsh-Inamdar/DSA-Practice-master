@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Count the number of subarrays that sum up to a given value `K`.
 
 ⚙️ Expected Functionality:
@@ -14,4 +14,5 @@
 - At each index, check if (currentPrefixSum - K) exists in the map.
 
 🧠 Write your implementation below this comment:
-*/
+"""
+

@@ -1,4 +1,4 @@
-/*
+"""
 ✅ Problem: Find the index where the sum of elements on the left is equal to the sum on the right.
 
 ⚙️ Expected Functionality:
@@ -15,4 +15,5 @@
 - At each index, check if leftSum == totalSum - leftSum - arr[i]
 
 🧠 Write your implementation below this comment:
-*/
+"""
+
